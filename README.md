@@ -1,12 +1,12 @@
 ## 🛍️ StarkBay
-### StarkBay is a decentralized multi-vendor e-commerce marketplace built on Starknet, empowering sellers to launch and manage their own shops while buyers enjoy a trustless, transparent shopping experience. Built with Next.js, NestJS, Cairo, and MongoDB, StarkBay combines Web3 transparency with powerful vendor tools—redefining what’s possible in decentralized commerce.
+#### StarkBay is a decentralized multi-vendor e-commerce marketplace built on Starknet, empowering sellers to launch and manage their own shops while buyers enjoy a trustless, transparent shopping experience. Built with Next.js, NestJS, Cairo, and MongoDB, StarkBay combines Web3 transparency with powerful vendor tools redefining what’s possible in decentralized commerce.
 
 ### 🔧Tech Stack Overview
-#### Frontend: Built with Next.js, styled using Tailwind CSS and ShadCn UI for a sleek, responsive UI.
+##### Frontend: Built with Next.js, styled using Tailwind CSS and ShadCn UI for a sleek, responsive UI.
 
-#### Backend: Powered by NestJS and MongoDB, managing user data, vendor profiles, and marketplace interactions.
+##### Backend: Powered by NestJS and MongoDB, managing user data, vendor profiles, and marketplace interactions.
 
-#### Smart Contracts: Developed in Cairo to handle shop creation, product listings, secure token-based transactions, and NFT issuance on Starknet.
+##### Smart Contracts: Developed in Cairo to handle shop creation, product listings, secure token-based transactions, and NFT issuance on Starknet.
 
 
 
